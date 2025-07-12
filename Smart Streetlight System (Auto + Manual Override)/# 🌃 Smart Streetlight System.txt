@@ -27,6 +27,33 @@ A smart embedded system that automatically controls a streetlight using an LDR s
 
 ---
 
+## 💡 Features
+
+- 🌞 Auto Mode: LED controlled by LDR sensor
+- ✋ Manual Mode: LED toggle using pushbutton
+- 🔁 Smart switch between auto and manual modes
+- 🧠 Built using debounce logic and analog sensing
+
+---
+
+## ⚙️ How It Works
+
+1. System starts in Auto Mode
+2. If it’s dark, LDR triggers LED ON (threshold = 500)
+3. Pressing the button:
+   - Switches to Manual Mode
+   - Toggles LED ON/OFF (independent of LDR)
+   - Third press switches back to Auto Mode
+
+---
+
+## 🧪 Tinkercad Simulation
+
+> [https://www.tinkercad.com/things/k938vdywwq0/editel?returnTo=%2Fdashboard]
+
+---
+
+
 ## 🔌 Circuit Diagram
 
 ![Streetlight Circuit](./strightlight_circuit.png)
