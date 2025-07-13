@@ -56,7 +56,7 @@ A smart embedded system that automatically controls a streetlight using an LDR s
 
 ## 🔌 Circuit Diagram
 
-![Streetlight Circuit](./strightlight_circuit.png)
+![Streetlight Circuit](Smart Streetlight System (Auto + Manual Override)/strightlight_cricuit.png)
 
 ---
 
