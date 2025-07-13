@@ -77,7 +77,7 @@ A smart embedded system that automatically controls a streetlight using an LDR s
 ## 📷 Simulation Demo
 
 > Add your Tinkercad project link here:  
-> `[[Tinkercad Simulation](https://www.tinkercad.com/dashboard](https://www.tinkercad.com/things/3AxsCnBshXG-smartfancontrol/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard))`
+> [https://www.tinkercad.com/things/3AxsCnBshXG-smartfancontrol/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard]
 
 ---
 
